@@ -124,27 +124,11 @@ Machine learning capstone project applying multiple linear regression to housing
 
 ---
 
-# 📈 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ST10437403-JamesMaherry&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ST10437403-JamesMaherry&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 📊 Coding Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ST10437403-JamesMaherry&theme=tokyo-night&hide_border=true"/>
 </p>
-
----
-
-# 💡 Engineering Philosophy
-
-> "Great software is built through consistency, curiosity, and a relentless drive to improve."
 
 ---
 
@@ -164,9 +148,3 @@ Machine learning capstone project applying multiple linear regression to housing
 
 - GitHub: https://github.com/ST10437403-JamesMaherry
 - LinkedIn: https://www.linkedin.com/in/james-m-154ab113a/
-
----
-
-<p align="center">
-⭐ Always building. Always learning. Always improving.
-</p>
