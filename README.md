@@ -14,7 +14,7 @@ Passionate about building scalable software, solving real-world problems, and co
 - 🎓 Third-year Computer Science student
 - 💻 Focused on backend engineering, scalable systems, and cloud technologies
 - ☁️ Interested in DevOps, Cloud Engineering, Cybersecurity, and AI/ML
-- 🔥 Building production-style applications using Java, Spring Boot, ASP.NET Core, React, Docker, and PostgreSQL
+- 🔥 Building production-style applications using Java, ASP.NET Core, Python, React, Docker, and PostgreSQL
 - 📈 Strong academic performer with an average above 85%
 - 🛡️ Participated in the South Africa–Netherlands Cybersecurity School
 - 🏅 Golden Key International Honour Society Member
@@ -29,13 +29,11 @@ Passionate about building scalable software, solving real-world problems, and co
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
 ## Backend & Frameworks
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
 
