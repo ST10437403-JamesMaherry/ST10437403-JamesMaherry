@@ -67,6 +67,26 @@ Passionate about building scalable software, solving real-world problems, and co
 
 # 📌 Featured Projects
 
+## 📋 Contract Monthly Claim System (CMCS)
+
+Production-style ASP.NET Core MVC application for managing monthly lecturer claims, featuring a full multi-role approval workflow from submission through to payroll export.
+
+### Key Features
+- Role-based dashboards for Lecturers, Coordinators, Managers, and HR
+- Multi-stage claim approval workflow with audit trail comments
+- Secure document uploads with file validation and encrypted storage
+- HR user management with hourly-rate control
+- PDF invoice generation and CSV payroll batch exports
+- Session-based authentication with hashed passwords and forced first-login password change
+- CI/CD pipeline via GitHub Actions with automated test suite
+
+### Tech Used
+`ASP.NET Core` `C#` `Entity Framework Core` `SQLite` `QuestPDF` `xUnit` `GitHub Actions`
+
+🔗 Repository: https://github.com/ST10437403-JamesMaherry/Contract-Monthly-Claim-System
+
+---
+
 ## 🛒 ABC Retail Platform
 
 Full-stack ASP.NET Core MVC retail management application with authentication, product management, shopping cart functionality, contract management, and order processing.
