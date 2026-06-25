@@ -3,10 +3,6 @@
 Third-Year Computer Science Student | Backend & Full Stack Developer | Cloud & CyberSecurity Enthusiast
 </h3>
 
-<p align="center">
-Passionate about building scalable software, solving real-world problems, and continuously improving as an engineer.
-</p>
-
 ---
 
 # 🚀 About Me
@@ -14,7 +10,7 @@ Passionate about building scalable software, solving real-world problems, and co
 - 🎓 Third-year Computer Science student
 - 💻 Focused on backend engineering, scalable systems, and cloud technologies
 - ☁️ Interested in DevOps, Cloud Engineering, Cybersecurity, and AI/ML
-- 🔥 Building production-style applications using Java, ASP.NET Core, Python, React, Docker, and PostgreSQL
+- 🔥 Building production-style applications using Java, ASP.NET Core, Python, Kotlin, Docker, and PostgreSQL
 - 📈 Strong academic performer with an average above 85%
 - 🛡️ Participated in the South Africa–Netherlands Cybersecurity School
 - 🏅 Golden Key International Honour Society Member
@@ -150,17 +146,6 @@ Machine learning capstone project applying multiple linear regression to housing
 
 ---
 
-# 🎯 Career Interests
-
-- Backend Engineering
-- Full Stack Development
-- Cloud Engineering
-- DevOps
-- Cybersecurity
-- AI / Machine Learning
-- Scalable Systems Architecture
-
----
 
 # 📫 Connect With Me
 
