@@ -37,7 +37,6 @@ Third-Year Computer Science Student | Backend & Full Stack Developer | Cloud & C
 
 ## Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -62,6 +61,27 @@ Third-Year Computer Science Student | Backend & Full Stack Developer | Cloud & C
 ---
 
 # 📌 Featured Projects
+
+## 🎮 GitQuest: The Version Control Adventure
+
+Currently working on a terminal-based Python learning game that helps developers master Git commands through interactive missions, XP, leveling, mission areas, and real Git sandbox challenges.
+
+### Key Features
+
+* Story-driven Git command missions with XP rewards and unlockable commands
+* Mission map with learning areas such as Git Basics and Branching Forest
+* Flexible answer checking for realistic terminal command input
+* Rich terminal UI with styled menus, panels, and tables
+* Local player progress saved with JSON
+* Real Git sandbox missions where players run actual Git commands in temporary practice repositories
+* Planned SQL learning path using SQLite
+
+### Tech Used
+
+`Python` `Rich` `JSON` `Git` `GitHub` `VS Code`
+
+🔗 Repository: https://github.com/ST10437403-JamesMaherry/GitQuest.git
+
 
 ## 📋 Contract Monthly Claim System (CMCS)
 
