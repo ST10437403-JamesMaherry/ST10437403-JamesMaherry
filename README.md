@@ -165,6 +165,8 @@ Machine learning capstone project applying multiple linear regression to housing
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ST10437403-JamesMaherry&theme=tokyo-night&hide_border=true"/>
 </p>
 
+![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=ST10437403-JamesMaherry&show_icons=true&theme=default)
+
 ---
 
 
