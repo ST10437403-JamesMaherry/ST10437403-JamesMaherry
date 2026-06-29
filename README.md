@@ -84,6 +84,32 @@ Currently working on a terminal-based Python learning game that helps developers
 🔗 Repository: https://github.com/ST10437403-JamesMaherry/GitQuest.git
 
 ---
+## 🌐 Global Logistics Management System (GLMS)
+
+Enterprise-style logistics management system, modernised from an ASP.NET Core MVC prototype into a separated MVC frontend, Web API backend, SQL Server database, and Docker Compose deployment.
+
+### Key Features
+
+* ASP.NET Core MVC frontend separated from ASP.NET Core Web API backend
+* SQL Server database with Entity Framework Core migrations
+* Client, contract, and service request management
+* Signed agreement PDF upload, validation, viewing, downloading, replacement, and storage
+* JWT authentication with protected API endpoints
+* Frontend-to-backend communication using `HttpClient`
+* USD to ZAR currency conversion using an external exchange-rate API
+* Business rule enforcement preventing service requests for expired or on-hold contracts
+* Docker Compose setup with MVC frontend, Web API backend, and SQL Server containers
+* Persistent Docker volumes for SQL Server data and uploaded contract PDFs
+* Automated unit and API integration testing
+* GitHub Actions CI workflow for build and test validation
+
+### Tech Used
+
+`ASP.NET Core MVC` `ASP.NET Core Web API` `.NET 8` `C#` `SQL Server` `Entity Framework Core` `JWT` `Swagger` `Docker` `Docker Compose` `xUnit` `Moq` `GitHub Actions`
+
+🔗 Repository: https://github.com/ST10437403-JamesMaherry/Global-Logistics-Management-System.git
+
+---
 
 ## 📋 Contract Monthly Claim System (CMCS)
 
