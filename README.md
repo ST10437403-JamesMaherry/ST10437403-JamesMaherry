@@ -184,12 +184,6 @@ I use GitHub to build portfolio projects, practise professional Git workflows, a
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ST10437403-JamesMaherry&theme=tokyo-night&hide_border=true" alt="James Maherry's GitHub activity graph" />
 </p>
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ST10437403-JamesMaherry&show_icons=true&theme=tokyonight&hide_border=true" alt="James Maherry's GitHub stats" />
-</p>
-
 ---
 
 # 📫 Connect With Me
