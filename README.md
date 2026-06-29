@@ -82,6 +82,7 @@ Currently working on a terminal-based Python learning game that helps developers
 
 🔗 Repository: https://github.com/ST10437403-JamesMaherry/GitQuest.git
 
+---
 
 ## 📋 Contract Monthly Claim System (CMCS)
 
