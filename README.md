@@ -12,7 +12,6 @@ Third-Year Computer Science Student | Backend & Full Stack Developer | Cloud & C
 * 💻 Focused on backend engineering, scalable systems, and cloud technologies
 * ☁️ Interested in DevOps, Cloud Engineering, Cybersecurity, and AI/ML
 * 🔥 Building production-style applications using Java, ASP.NET Core, Python, Kotlin, Docker, and PostgreSQL
-* 📈 Strong academic performer with an average above 85%
 * 🛡️ Participated in the South Africa–Netherlands Cybersecurity School
 * 🏅 Golden Key International Honour Society Member
 
