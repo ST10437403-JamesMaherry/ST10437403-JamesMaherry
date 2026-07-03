@@ -194,23 +194,6 @@ Machine learning capstone project applying multiple linear regression to housing
 
 ---
 
-# 📊 GitHub Activity
-
-I use GitHub to build portfolio projects, practise professional Git workflows, and track my learning progress through real commits, branches, and pull requests.
-
-## Contribution Heatmap
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/ST10437403-JamesMaherry" alt="James Maherry's GitHub contribution heatmap" />
-</p>
-
-## Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ST10437403-JamesMaherry&theme=tokyo-night&hide_border=true" alt="James Maherry's GitHub activity graph" />
-</p>
-
----
 
 # 📫 Connect With Me
 
