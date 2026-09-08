@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm James Maherry</h1>
 
 <h3 align="center">
-Third-Year Computer Science Student | Backend & Full Stack Developer | Cloud & Cybersecurity Enthusiast
+Third-Year Computer Science Student | Backend & Full-Stack Developer | Cloud & Cybersecurity Enthusiast
 </h3>
 
 ---
@@ -12,6 +12,7 @@ Third-Year Computer Science Student | Backend & Full Stack Developer | Cloud & C
 * 💻 Focused on backend engineering, scalable systems, and cloud technologies
 * ☁️ Interested in DevOps, Cloud Engineering, Cybersecurity, and AI/ML
 * 🔥 Building production-style applications using Java, ASP.NET Core, Python, Kotlin, Docker, and PostgreSQL
+* 🌐 Working with TypeScript, Node.js, Express, and React to build modern web applications
 * 🛡️ Participated in the South Africa–Netherlands Cybersecurity School
 * 🏅 Golden Key International Honour Society Member
 
@@ -21,42 +22,46 @@ Third-Year Computer Science Student | Backend & Full Stack Developer | Cloud & C
 
 ## Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
 ## Backend & Frameworks
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=.net\&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
 
 ---
 
 ## Frontend
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
 ## Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
 ## Cloud & DevOps
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -64,7 +69,7 @@ Third-Year Computer Science Student | Backend & Full Stack Developer | Cloud & C
 
 ## 🎮 GitQuest: The Version Control Adventure
 
-Currently working on a terminal-based Python learning game that helps developers master Git commands through interactive missions, XP, leveling, mission areas, and real Git sandbox challenges.
+Currently working on a terminal-based Python learning game that helps developers master Git commands through interactive missions, XP, levelling, mission areas, and real Git sandbox challenges.
 
 ### Key Features
 
@@ -83,6 +88,7 @@ Currently working on a terminal-based Python learning game that helps developers
 🔗 Repository: https://github.com/ST10437403-JamesMaherry/GitQuest.git
 
 ---
+
 ## 🌐 Global Logistics Management System (GLMS)
 
 Enterprise-style logistics management system, modernised from an ASP.NET Core MVC prototype into a separated MVC frontend, Web API backend, SQL Server database, and Docker Compose deployment.
@@ -155,7 +161,7 @@ Full-stack ASP.NET Core MVC retail management application with authentication, p
 
 ## 📊 Customer Segmentation & Marketing Intelligence Dashboard
 
-Business intelligence dashboard analyzing 100,000 customer records to uncover segmentation trends, customer growth, and marketing insights.
+Business intelligence dashboard analysing 100,000 customer records to uncover segmentation trends, customer growth, and marketing insights.
 
 ### Key Features
 
@@ -181,9 +187,9 @@ Machine learning capstone project applying multiple linear regression to housing
 
 * Exploratory data analysis
 * Feature engineering
-* Predictive modeling
+* Predictive modelling
 * Model evaluation
-* Data visualization
+* Data visualisation
 
 ### Tech Used
 
@@ -192,7 +198,6 @@ Machine learning capstone project applying multiple linear regression to housing
 🔗 Repository: https://github.com/ST10437403-JamesMaherry/14-017-Capstone-Project---Linear-Regression-in-Action
 
 ---
-
 
 # 📫 Connect With Me
 
