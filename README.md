@@ -1,189 +1,300 @@
-<h1 align="center">Hi 👋, I'm James Maherry</h1>
+<div align="center">
 
-<h3 align="center">
-Third-Year Computer Science Student | Backend & Full-Stack Developer | Cloud & Cybersecurity Enthusiast
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7B2FF7&height=220&section=header&text=James%20Maherry&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20%7C%20Full-Stack%20%7C%20Cloud%20%7C%20Cybersecurity&descAlignY=55&descSize=18"/>
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=850&height=60&lines=Third-Year+Computer+Science+Student;Backend+%26+Full-Stack+Developer;Building+with+.NET%2C+Node.js%2C+React+%26+TypeScript;Cloud+%26+Cybersecurity+Enthusiast;Always+learning.+Always+building."
+    alt="Typing SVG"
+  />
+</a>
+
+<br/>
+
+<a href="https://github.com/ST10437403-JamesMaherry">
+  <img src="https://komarev.com/ghpvc/?username=ST10437403-JamesMaherry&style=for-the-badge&color=7B2FF7" alt="Profile Views"/>
+</a>
+
+<a href="https://github.com/ST10437403-JamesMaherry?tab=followers">
+  <img src="https://img.shields.io/github/followers/ST10437403-JamesMaherry?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/>
+</a>
+
+</div>
 
 ---
 
 # 🚀 About Me
 
+```text
+🎓 Computer Science       Third-Year Student
+💻 Development            Backend & Full-Stack
+☁️ Cloud                  AWS • Azure • Docker
+🛡️ Security               Cybersecurity & Cloud Security
+🌐 Web                    React • TypeScript • Node.js • Express
+⚙️ Backend                ASP.NET Core • REST APIs
+📊 Data & AI              Python • Machine Learning • Analytics
+```
+
 * 🎓 Third-year Computer Science student
-* 💻 Focused on backend engineering, scalable systems, and cloud technologies
-* ☁️ Interested in DevOps, Cloud Engineering, Cybersecurity, and AI/ML
-* 🔥 Building production-style applications using Java, ASP.NET Core, Python, Kotlin, Docker, and PostgreSQL
-* 🌐 Working with TypeScript, Node.js, Express, and React to build modern web applications
-* 🛡️ Participated in the South Africa–Netherlands Cybersecurity School
-* 🏅 Golden Key International Honour Society Member
+* 💻 Focused on backend engineering, scalable systems, and modern full-stack development
+* ☁️ Interested in DevOps, Cloud Engineering, Cloud Security, Cybersecurity, and AI/ML
+* 🌐 Building modern applications with **React, TypeScript, Node.js, Express, and ASP.NET Core**
+* 🐳 Developing production-style systems using Docker, REST APIs, SQL, authentication, CI/CD, and automated testing
+* 🛡️ Participated in the **South Africa–Netherlands Cybersecurity School**
+* 🏅 **Golden Key International Honour Society Member**
+* 🚀 Constantly expanding my portfolio through real-world and production-style projects
 
 ---
 
 # 🛠️ Tech Stack
 
-## Languages
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### Backend & Frameworks
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=.net\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge\&logo=fastapi\&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+### Cloud, DevOps & Tools
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+</div>
 
 ---
 
-## Backend & Frameworks
+# 📊 GitHub Analytics
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
+<div align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ST10437403-JamesMaherry&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
 
-## Frontend
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ST10437403-JamesMaherry&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</div>
 
----
+<br/>
 
-## Databases
+<div align="center">
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<img src="https://streak-stats.demolab.com?user=ST10437403-JamesMaherry&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+
+</div>
 
 ---
 
-## Cloud & DevOps
+# 🏆 GitHub Achievements
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ST10437403-JamesMaherry&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ST10437403-JamesMaherry&theme=tokyo-night&hide_border=true&area=true&radius=10" width="100%" alt="Contribution Graph"/>
+
+</div>
 
 ---
 
 # 📌 Featured Projects
 
-## 🎮 GitQuest: The Version Control Adventure
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Currently working on a terminal-based Python learning game that helps developers master Git commands through interactive missions, XP, levelling, mission areas, and real Git sandbox challenges.
+## 🎮 GitQuest
 
-### Key Features
+**The Version Control Adventure**
 
-* Story-driven Git command missions with XP rewards and unlockable commands
-* Mission map with learning areas such as Git Basics and Branching Forest
-* Flexible answer checking for realistic terminal command input
-* Rich terminal UI with styled menus, panels, and tables
-* Local player progress saved with JSON
-* Real Git sandbox missions where players run actual Git commands in temporary practice repositories
-* Planned SQL learning path using SQLite
+Terminal-based Python learning game designed to teach developers Git through interactive missions and real sandbox challenges.
 
-### Tech Used
+### Highlights
 
-`Python` `Rich` `JSON` `Git` `GitHub` `VS Code`
+* 🎯 Story-driven Git missions
+* ⭐ XP and progression system
+* 🗺️ Unlockable learning areas
+* 🖥️ Rich terminal interface
+* 💾 JSON player progression
+* 🧪 Real Git sandbox repositories
+* 🌿 Branching and Git workflow challenges
+* 🗄️ Planned SQLite learning path
 
-🔗 Repository: https://github.com/ST10437403-JamesMaherry/GitQuest.git
+### Built With
+
+`Python` `Rich` `JSON` `Git` `GitHub`
+
+<a href="https://github.com/ST10437403-JamesMaherry/GitQuest">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🌐 GLMS
+
+**Global Logistics Management System**
+
+Enterprise-style logistics platform built around a separated MVC frontend, REST API backend, SQL Server database, and containerised architecture.
+
+### Highlights
+
+* 🔐 JWT authentication
+* 🌐 ASP.NET Core Web API
+* 🖥️ MVC frontend
+* 🗄️ SQL Server + EF Core
+* 📄 Secure PDF management
+* 💱 External currency API
+* 🐳 Docker Compose deployment
+* 🧪 Unit & integration testing
+* ⚙️ GitHub Actions CI
+
+### Built With
+
+`.NET 8` `C#` `SQL Server` `Docker` `JWT` `xUnit`
+
+<a href="https://github.com/ST10437403-JamesMaherry/Global-Logistics-Management-System">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 📋 CMCS
+
+**Contract Monthly Claim System**
+
+Production-style ASP.NET Core application for managing lecturer claims through submission, multi-stage approval, and payroll processing.
+
+### Highlights
+
+* 👥 Multi-role dashboards
+* ✅ Multi-stage approvals
+* 🔐 Secure authentication
+* 📄 Encrypted document storage
+* 🧾 PDF invoice generation
+* 📊 CSV payroll exports
+* 🧪 Automated testing
+* ⚙️ CI/CD with GitHub Actions
+
+### Built With
+
+`ASP.NET Core` `C#` `EF Core` `SQLite` `QuestPDF` `xUnit`
+
+<a href="https://github.com/ST10437403-JamesMaherry/Contract-Monthly-Claim-System">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🛒 ABC Retail
+
+**Full-Stack Retail Platform**
+
+ASP.NET Core MVC retail management platform featuring authentication, inventory, contracts, shopping carts, and order processing.
+
+### Highlights
+
+* 🔐 Role-based authentication
+* 📦 Product management
+* 🛒 Shopping cart
+* 💳 Checkout workflow
+* 🗄️ SQL Server integration
+* 📁 File uploads
+* 📋 Contract management
+
+### Built With
+
+`ASP.NET Core` `C#` `SQL Server` `EF Core` `JavaScript`
+
+<a href="https://github.com/ST10437403-JamesMaherry/ABC-RETAIL">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌐 Global Logistics Management System (GLMS)
+# 🤖 Data Science & Machine Learning
 
-Enterprise-style logistics management system, modernised from an ASP.NET Core MVC prototype into a separated MVC frontend, Web API backend, SQL Server database, and Docker Compose deployment.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Key Features
+## 📊 Customer Segmentation Dashboard
 
-* ASP.NET Core MVC frontend separated from ASP.NET Core Web API backend
-* SQL Server database with Entity Framework Core migrations
-* Client, contract, and service request management
-* Signed agreement PDF upload, validation, viewing, downloading, replacement, and storage
-* JWT authentication with protected API endpoints
-* Frontend-to-backend communication using `HttpClient`
-* USD to ZAR currency conversion using an external exchange-rate API
-* Business rule enforcement preventing service requests for expired or on-hold contracts
-* Docker Compose setup with MVC frontend, Web API backend, and SQL Server containers
-* Persistent Docker volumes for SQL Server data and uploaded contract PDFs
-* Automated unit and API integration testing
-* GitHub Actions CI workflow for build and test validation
+Business intelligence dashboard analysing **100,000 customer records** to uncover customer segments, growth trends, and marketing insights.
 
-### Tech Used
-
-`ASP.NET Core MVC` `ASP.NET Core Web API` `.NET 8` `C#` `SQL Server` `Entity Framework Core` `JWT` `Swagger` `Docker` `Docker Compose` `xUnit` `Moq` `GitHub Actions`
-
-🔗 Repository: https://github.com/ST10437403-JamesMaherry/Global-Logistics-Management-System.git
-
----
-
-## 📋 Contract Monthly Claim System (CMCS)
-
-Production-style ASP.NET Core MVC application for managing monthly lecturer claims, featuring a full multi-role approval workflow from submission through to payroll export.
-
-### Key Features
-
-* Role-based dashboards for Lecturers, Coordinators, Managers, and HR
-* Multi-stage claim approval workflow with audit trail comments
-* Secure document uploads with file validation and encrypted storage
-* HR user management with hourly-rate control
-* PDF invoice generation and CSV payroll batch exports
-* Session-based authentication with hashed passwords and forced first-login password change
-* CI/CD pipeline via GitHub Actions with automated test suite
-
-### Tech Used
-
-`ASP.NET Core` `C#` `Entity Framework Core` `SQLite` `QuestPDF` `xUnit` `GitHub Actions`
-
-🔗 Repository: https://github.com/ST10437403-JamesMaherry/Contract-Monthly-Claim-System
-
----
-
-## 🛒 ABC Retail Platform
-
-Full-stack ASP.NET Core MVC retail management application with authentication, product management, shopping cart functionality, contract management, and order processing.
-
-### Key Features
-
-* Role-based authentication
-* Product and inventory management
-* Shopping cart and checkout workflow
-* SQL Server integration
-* File upload system
-* Session-based cart handling
-
-### Tech Used
-
-`ASP.NET Core` `C#` `SQL Server` `Entity Framework Core` `JavaScript`
-
-🔗 Repository: https://github.com/ST10437403-JamesMaherry/ABC-RETAIL
-
----
-
-## 📊 Customer Segmentation & Marketing Intelligence Dashboard
-
-Business intelligence dashboard analysing 100,000 customer records to uncover segmentation trends, customer growth, and marketing insights.
-
-### Key Features
+### Features
 
 * Customer segmentation
-* Interactive dashboards
 * KPI analytics
-* Data cleaning and preprocessing
-* Streamlit dashboard
+* Interactive visualisations
+* Data preprocessing
+* Business intelligence dashboard
 
-### Tech Used
+### Built With
 
 `Python` `Pandas` `Plotly` `Streamlit` `NumPy`
 
-🔗 Repository: https://github.com/ST10437403-JamesMaherry/Customer-Segmentation-Dashboard
+<a href="https://github.com/ST10437403-JamesMaherry/Customer-Segmentation-Dashboard">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ## 🏠 Linear Regression in Action
 
-Machine learning capstone project applying multiple linear regression to housing market data for predictive analytics and property valuation.
+Machine-learning capstone applying multiple linear regression to housing data for predictive analytics and property valuation.
 
-### Key Features
+### Features
 
 * Exploratory data analysis
 * Feature engineering
@@ -191,15 +302,62 @@ Machine learning capstone project applying multiple linear regression to housing
 * Model evaluation
 * Data visualisation
 
-### Tech Used
+### Built With
 
 `Python` `scikit-learn` `Pandas` `Matplotlib`
 
-🔗 Repository: https://github.com/ST10437403-JamesMaherry/14-017-Capstone-Project---Linear-Regression-in-Action
+<a href="https://github.com/ST10437403-JamesMaherry/14-017-Capstone-Project---Linear-Regression-in-Action">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🎯 Current Focus
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│   ☁️  Cloud Engineering & AWS                        │
+│   🛡️  Cybersecurity & Cloud Security                 │
+│   ⚛️  React + TypeScript                             │
+│   🟢  Node.js + Express                              │
+│   🐳  Docker & Containerised Systems                 │
+│   ⚙️  CI/CD & DevOps                                 │
+│   🏗️  Scalable Backend Architecture                  │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+</div>
 
 ---
 
 # 📫 Connect With Me
 
-* GitHub: https://github.com/ST10437403-JamesMaherry
-* LinkedIn: https://www.linkedin.com/in/james-m-154ab113a/
+<div align="center">
+
+<a href="https://github.com/ST10437403-JamesMaherry">
+  <img src="https://img.shields.io/badge/GitHub-James_Maherry-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/james-m-154ab113a/">
+  <img src="https://img.shields.io/badge/LinkedIn-James_Maherry-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🚀 Always learning. Always building.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00C9FF&height=120&section=footer"/>
+
+</div>
