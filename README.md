@@ -1,17 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=55&section=header"/>
+<h1>Hi 👋, I'm James Maherry</h1>
 
-<br/>
-
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=1800&pause=1600&color=F0F6FC&center=true&vCenter=true&repeat=false&width=760&height=75&lines=James+Maherry"
-    alt="James Maherry"
-  />
-</a>
-
-### Computer Science Student · Full-Stack Developer · Cloud · DevOps · Cybersecurity
+<h3>
+Computer Science Student · Full-Stack Developer · Cloud · DevOps · Cybersecurity
+</h3>
 
 <br/>
 
@@ -92,23 +85,9 @@
 
 ---
 
-# 📈 Contribution Activity
+# 🐍 Contribution Snake
 
 <div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=ST10437403-JamesMaherry&theme=github-dark&hide_border=true&area=true&radius=8"
-width="100%"
-alt="James Maherry GitHub Contribution Activity"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🐍 Contribution Snake
 
 <picture>
   <source
