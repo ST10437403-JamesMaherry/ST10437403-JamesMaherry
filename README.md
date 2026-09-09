@@ -1,23 +1,21 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7B2FF7&height=220&section=header&text=James%20Maherry&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20%7C%20Full-Stack%20%7C%20Cloud%20%7C%20Cybersecurity&descAlignY=55&descSize=18"/>
-
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=850&height=60&lines=Third-Year+Computer+Science+Student;Backend+%26+Full-Stack+Developer;Building+with+.NET%2C+Node.js%2C+React+%26+TypeScript;Cloud+%26+Cybersecurity+Enthusiast;Always+learning.+Always+building."
-    alt="Typing SVG"
-  />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=55&section=header"/>
 
 <br/>
 
-<a href="https://github.com/ST10437403-JamesMaherry">
-  <img src="https://komarev.com/ghpvc/?username=ST10437403-JamesMaherry&style=for-the-badge&color=7B2FF7" alt="Profile Views"/>
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=1800&pause=1600&color=F0F6FC&center=true&vCenter=true&repeat=false&width=760&height=75&lines=James+Maherry"
+    alt="James Maherry"
+  />
 </a>
 
-<a href="https://github.com/ST10437403-JamesMaherry?tab=followers">
-  <img src="https://img.shields.io/github/followers/ST10437403-JamesMaherry?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/>
-</a>
+### Computer Science Student · Full-Stack Developer · Cloud · DevOps · Cybersecurity
+
+<br/>
+
+`BUILD` · `SECURE` · `AUTOMATE` · `IMPROVE`
 
 </div>
 
@@ -94,13 +92,15 @@
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ST10437403-JamesMaherry&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ST10437403-JamesMaherry&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=ST10437403-JamesMaherry&theme=github-dark&hide_border=true&area=true&radius=8"
+width="100%"
+alt="James Maherry GitHub Contribution Activity"
+/>
 
 </div>
 
@@ -108,27 +108,22 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ST10437403-JamesMaherry&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+### 🐍 Contribution Snake
 
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ST10437403-JamesMaherry&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ST10437403-JamesMaherry&theme=tokyo-night&hide_border=true&area=true&radius=10" width="100%" alt="Contribution Graph"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ST10437403-JamesMaherry/ST10437403-JamesMaherry/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ST10437403-JamesMaherry/ST10437403-JamesMaherry/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution grid snake animation"
+    src="https://raw.githubusercontent.com/ST10437403-JamesMaherry/ST10437403-JamesMaherry/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
 
@@ -280,7 +275,7 @@ Business intelligence dashboard analysing **100,000 customer records** to uncove
 
 ### Built With
 
-`Python` `Pandas` `Plotly` `Streamlit` `NumPy`
+`Python` `Pandas` `Plotly` `Streamlit` `NumPy` `Docker`
 
 <a href="https://github.com/ST10437403-JamesMaherry/Customer-Segmentation-Dashboard">
   <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -304,7 +299,7 @@ Machine-learning capstone applying multiple linear regression to housing data fo
 
 ### Built With
 
-`Python` `scikit-learn` `Pandas` `Matplotlib`
+`Python` `scikit-learn` `Pandas` `Matplotlib` `Docker`
 
 <a href="https://github.com/ST10437403-JamesMaherry/14-017-Capstone-Project---Linear-Regression-in-Action">
   <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -347,17 +342,20 @@ Machine-learning capstone applying multiple linear regression to housing data fo
 </a>
 
 <a href="https://www.linkedin.com/in/james-m-154ab113a/">
-  <img src="https://img.shields.io/badge/LinkedIn-James_Maherry-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-James_Maherry-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<br/>
+<br/>
+
+`Cloud` · `DevOps` · `DevSecOps` · `Software Engineering` · `Cybersecurity`
+
+<br/>
+
+### Always learning. Always building.
 
 </div>
 
 <br/>
 
-<div align="center">
-
-### 🚀 Always learning. Always building.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00C9FF&height=120&section=footer"/>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer"/>
